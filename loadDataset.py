@@ -52,7 +52,7 @@ class UniversalDependencies(datasets.GeneratorBasedBuilder):
 
  
         splits.append(
-            datasets.SplitGenerator(name=datasets.Split.TRAIN, gen_kwargs={"filepath": 'test.conll'})
+            datasets.SplitGenerator(name=datasets.Split.TRAIN, gen_kwargs={"filepath": '/content/gdrive/MyDrive/hashtagseg/test.conll'})
         )
 
 
