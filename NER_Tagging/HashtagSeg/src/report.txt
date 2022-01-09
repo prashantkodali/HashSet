@@ -1,4 +1,0 @@
-Epoch 1/50, Loss: 0.821,
-Epoch 2/50, Loss: 0.821,
-Epoch 3/50, Loss: 0.821,
-Epoch 4/50, Loss: 0.821,
