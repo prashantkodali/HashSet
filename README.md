@@ -20,7 +20,7 @@ Hashset is a new dataset consisiting on 1.9k manually annotated and 3.3M loosely
   '    |       |-- boun_hashformers_output.csv',
   '    |       |-- stan-dev_hashformers_output.csv',
   '    |-- datasets', ## Datasets used to compare model performances along with HashSet. 
-  '        |-- boun-celebi-et-al.csv',  ## dataset used for comparison. Proposed by 
+  '        |-- boun-celebi-et-al.csv',  
   '        |-- stan-dev-celebi-etal.csv',
   '        |-- stan-large-maddela_et_al_dev.pkl',
   '        |-- stan-large-maddela_et_al_test.pkl', 
